@@ -1,0 +1,1 @@
+Debug/Lab2Part2.c.o Debug/Lab2Part1.c.o
