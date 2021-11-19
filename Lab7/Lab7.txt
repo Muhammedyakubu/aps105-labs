@@ -1,0 +1,1 @@
+Debug/project_reversi_skeleton.c.o   
